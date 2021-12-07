@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miriamhochwaldartist
 - 👀 I’m interested in ... creative or health applications to machine learning
-- 🌱 I’m currently learning ... Python, Machine Learning, DevOps, Visual Art/ Design, Psychology
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 🌱 I’m currently learning ... Visual Art/ Design, Machine Learning, Python, Psychology
+- 💞️ I’m looking to collaborate on Machine Learning, Visual Art, eHelath projects
 - 📫 How to reach me ... https://www.linkedin.com/in/miriamhochwald/
 
 <!---
